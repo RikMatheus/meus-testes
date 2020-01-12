@@ -1,1 +1,2 @@
-<!teste>	+:q
+<!teste>+	:q
+olá mundo!
